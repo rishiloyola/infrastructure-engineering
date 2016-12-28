@@ -9,4 +9,4 @@ The goal of this repositry is to collect all the best material related to infras
 
 * Build bit.ly like system
 
-..* [interviewbit](https://www.interviewbit.com/problems/tiny-url/)  
+ 1. [interviewbit](https://www.interviewbit.com/problems/tiny-url/)  
