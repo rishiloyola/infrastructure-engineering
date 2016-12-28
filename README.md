@@ -4,3 +4,6 @@ The goal of this repositry is to collect all the best material related to infras
 
 ### Practice Problems
 ---------------------
+ ..* **System Design Questions**
+    - Build bit.ly like system
+      1. [interviewbit](https://www.interviewbit.com/problems/tiny-url/)
