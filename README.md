@@ -11,9 +11,13 @@ The goal of this repositry is to collect all the best material related to infras
 * Sharding
  * [Basic Design](https://www.interviewbit.com/problems/sharding-a-database/)
  * [Sharding of MySql](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet/)
+ * [Scale DB through sharding](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html)
  
 * Cache system
  * [Basic Guide](https://www.interviewbit.com/problems/design-cache/)
+
+* Scalability 
+ * [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
 
 ===========
 
