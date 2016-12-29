@@ -33,4 +33,5 @@ The goal of this repositry is to collect all the best material related to infras
 * Design Messenger 
 
  * [interviewbit](https://www.interviewbit.com/problems/design-messenger/)
+ * [Actual architecture](https://www.facebook.com/notes/facebook-engineering/chat-stability-and-scalability/51412338919/)
 
