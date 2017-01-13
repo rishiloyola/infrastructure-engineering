@@ -1,6 +1,6 @@
 # infrastructure-engineering
 ===========
-The goal of this repositry is to collect all the best material related to infrastructure engineering at one place.
+The goal of this repositry is to collect all the best material related to infrastructure engineering at one place which can be helpful to prepare for the system design interviews. 
 
 ### Study Material
 ---------------------
