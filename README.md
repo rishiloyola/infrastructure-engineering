@@ -39,3 +39,6 @@ The goal of this repositry is to collect all the best material related to infras
  * [interviewbit](https://www.interviewbit.com/problems/design-messenger/)
  * [Actual architecture](https://www.facebook.com/notes/facebook-engineering/chat-stability-and-scalability/51412338919/)
 
+* Find the duplicates in the large array 
+ * [Quora Answer](https://www.quora.com/How-do-I-check-if-there-are-duplicates-in-the-array-but-the-array-is-very-large-and-had-to-be-distributed-across-multiple-machines)
+ * [External Merge Sort](https://www.youtube.com/watch?v=ATK74YSzwxg)
