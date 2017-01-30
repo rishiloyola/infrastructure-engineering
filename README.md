@@ -19,6 +19,9 @@ The goal of this repositry is to collect all the best material related to infras
 * Scalability 
  * [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
 
+* Event driven concurrency
+ * [nodejs](http://ganeshiyer.net/wp-content/uploads/2015/01/NodeJSv2.docx-1.pdf)
+
 ===========
 
 ### Practice Problems
